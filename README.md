@@ -2,7 +2,7 @@
 
 Projeto acadêmico da disciplina de **Inteligência Artificial — Ciência da Computação, PUC-SP**. O laboratório utiliza uma rede neural artificial do Scikit-learn para estimar preços ausentes de conjuntos LEGO.
 
-**Integrantes:** preencher os nomes da dupla.
+**Integrantes:** Nicolas Mariano da Silva e Pedro Henrique Isamu Yoshissaro
 
 ## Objetivo
 
