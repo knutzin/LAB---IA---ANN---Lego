@@ -85,13 +85,13 @@ A ANN apresentou menor erro que a previsão pela mediana. As colunas com maior i
 | `lego_sets.csv` | Base original |
 | `lego_sets_data_dictionary.csv` | Dicionário dos dados |
 | `requirements.txt` | Versões das dependências utilizadas |
-| `resultados_lego/lego_sets_com_precos.csv` | Base completa com preços observados e estimados |
-| `resultados_lego/lego_precos_estimados.csv` | Apenas os conjuntos que receberam estimativas |
-| `resultados_lego/metricas_validacao.csv` | Comparação das configurações na validação |
-| `resultados_lego/metricas_teste.csv` | Avaliação final e baseline |
-| `resultados_lego/importancia_colunas.csv` | Importância por permutação |
-| `resultados_lego/modelo_ann_lego.joblib` | Modelo final reajustado com todos os preços conhecidos |
-| `resultados_lego/metadados_modelo.json` | Configuração, métricas e informações da execução |
+| `lego_sets_com_precos.csv` | Base completa com preços observados e estimados |
+| `lego_precos_estimados.csv` | Apenas os conjuntos que receberam estimativas |
+| `metricas_validacao.csv` | Comparação das configurações na validação |
+| `metricas_teste.csv` | Avaliação final e baseline |
+| `importancia_colunas.csv` | Importância por permutação |
+| `modelo_ann_lego.joblib` | Modelo final reajustado com todos os preços conhecidos |
+| `metadados_modelo.json` | Configuração, métricas e informações da execução |
 
 Os arquivos de dados e resultados estão no pacote completo. O notebook isolado consegue baixar os dados e gerar as saídas novamente.
 
